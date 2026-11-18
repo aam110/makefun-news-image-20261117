@@ -9,29 +9,38 @@ A [make.fun](https://make.fun/c/news-image-20261117) entry for
 
 ## The image
 
-A newspaper front page dated **Tuesday 17 November 2026**, built so a viewer
-who missed the day can read the whole day from the picture alone:
+A light broadsheet front page dated **Tuesday 17 November 2026**, built so
+a viewer who missed the day can read the whole day from the picture alone.
+Every story below happened, or was first reported, on that day:
 
-- **Top story — Kerch Bridge partly collapses after a Ukrainian strike.**
-  A road section of the bridge linking Russia to Crimea fell into the Kerch
-  Strait; Russia answered with strikes on bridges in Kyiv.
-- **Diplomacy — Trump–Xi–Putin summit set for Thursday in Shenzhen.**
-  China confirmed the first-ever trilateral meeting of the three leaders on
-  the sidelines of the APEC summit.
-- **Energy war — 4th tanker hit by a mine in the Strait of Hormuz.**
-  A fourth tanker caught fire within 24 hours as the US–Iran confrontation
-  at sea escalated; Iranian drones also targeted a US base in Bahrain.
-- **Gaza — West urges Israel to open Gaza aid crossings.**
-  The UK, Australia, Canada and Italy called jointly for rapid humanitarian
-  access, as UN agencies warned 1.7 million people remain displaced.
-- **Also today** — the US loses its measles-free status after 26 years; the
-  COP31 draft calls for $120bn in climate finance; five EU countries plan a
-  Rwanda return hub; Japan scrambles jets as Russian planes enter its
-  airspace; Mongolia's president resigns.
+- **Top story — Kerch Bridge's road arch falls into the sea.** Ukrainian
+  drones and missiles collapsed the 227 m arch into the Kerch Strait; two
+  people were killed, the road shut, and rail resumed on one track.
+- **The Gulf — US jets hit Iran after a 4th tanker is mined.** US
+  warplanes struck a missile site on Qeshm Island in retaliation; Oman
+  rescued 24 seafarers from a burning gas tanker.
+- **Diplomacy — Trump, Xi and Putin to meet Thursday in Shenzhen.** The
+  first-ever trilateral, on the APEC sidelines; Trump arrived in Manila
+  and met Quad leaders.
+- **Gaza — four nations press Israel to open aid crossings.** The UK,
+  Australia, Canada and Italy called the situation catastrophic as winter
+  rain flooded shelters.
+- **Tech — Nvidia posts a record $115.8bn quarter.** Revenue doubled in
+  its first results since Jensen Huang's ouster; the board will not bring
+  him back.
+- **By the numbers** — 227 m of arch lost · 1,441 drones in one day ·
+  24 seafarers rescued · $115.8bn of Nvidia revenue.
+- **Also today** — the US loses its measles-free status, the first time
+  since 2000; the COP31 draft calls for $120bn in climate finance;
+  Mongolia's president says he will resign over graft claims he denies;
+  Japan scrambles jets after Russian planes enter its airspace; Gérard
+  Depardieu drops his appeal; the NSA's classified network goes down;
+  EU states push a Rwanda return-hub plan.
 
-The four panel illustrations were generated for this entry and carry no text
-of their own; every headline, label and the date were typeset onto the page
-afterwards, so the text stays crisp and legible at small sizes.
+The three illustrations (bridge, tanker, aid convoy) were generated for
+this entry and carry no text of their own; the flags and the revenue chart
+are drawn, and every headline, deck, label and the date were typeset onto
+the page afterwards, so the text stays crisp and legible at small sizes.
 
 ## How it runs
 
